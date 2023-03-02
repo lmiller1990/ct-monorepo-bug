@@ -1,0 +1,11 @@
+{
+  "name": "@packages/foo",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@lmiller1990/cypress-ct-solid-js": "^0.1.0",
+    "cypress": "^12.7.0"
+  }
+}
